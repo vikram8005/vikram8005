@@ -1,4 +1,7 @@
+<img src="https://images.vexels.com/content/204038/preview/web-developer-logo-design-29b5d4.png" alt="">
+
 <h1 align="center">Hi 👋, I'm VIKRAM GOLADA</h1>
+
 <h3 align="center">A passionate frontend web developer from India</h3>
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right" hight="100" width ="400">
